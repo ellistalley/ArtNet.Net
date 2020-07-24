@@ -1,0 +1,5 @@
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/eDmx.ArtNet/bin/Debug/eDmx.ArtNet.dll
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/eDmx.ArtNet/bin/Debug/eDmx.ArtNet.pdb
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/eDmx.ArtNet/obj/Debug/eDmx.ArtNet.csproj.CoreCompileInputs.cache
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/eDmx.ArtNet/obj/Debug/eDmx.ArtNet.dll
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/eDmx.ArtNet/obj/Debug/eDmx.ArtNet.pdb

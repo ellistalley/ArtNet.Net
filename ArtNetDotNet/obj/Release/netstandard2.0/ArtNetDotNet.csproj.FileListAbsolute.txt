@@ -1,0 +1,9 @@
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/bin/Release/netstandard2.0/ArtNetDotNet.deps.json
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/bin/Release/netstandard2.0/ArtNetDotNet.dll
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/bin/Release/netstandard2.0/ArtNetDotNet.pdb
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/obj/Release/netstandard2.0/ArtNetDotNet.csprojAssemblyReference.cache
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/obj/Release/netstandard2.0/ArtNetDotNet.csproj.CoreCompileInputs.cache
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/obj/Release/netstandard2.0/ArtNetDotNet.AssemblyInfoInputs.cache
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/obj/Release/netstandard2.0/ArtNetDotNet.AssemblyInfo.cs
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/obj/Release/netstandard2.0/ArtNetDotNet.dll
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/obj/Release/netstandard2.0/ArtNetDotNet.pdb

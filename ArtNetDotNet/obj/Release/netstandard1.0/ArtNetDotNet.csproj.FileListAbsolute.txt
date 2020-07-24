@@ -1,0 +1,4 @@
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/obj/Release/netstandard1.0/ArtNetDotNet.csprojAssemblyReference.cache
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/obj/Release/netstandard1.0/ArtNetDotNet.csproj.CoreCompileInputs.cache
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/obj/Release/netstandard1.0/ArtNetDotNet.AssemblyInfoInputs.cache
+/Users/ellistalley/Projects/Balus3D/ArtNetDotNet/ArtNetDotNet/obj/Release/netstandard1.0/ArtNetDotNet.AssemblyInfo.cs
